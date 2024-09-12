@@ -25,6 +25,15 @@ Content Based Movie Recommender System
 > Remove non-relevant columns
 ![Screenshot (2740)](https://github.com/user-attachments/assets/edeef0bc-5382-4abf-94ec-fd55a691f6cf)
 
+### Step 6
+> Remove missing and duplicate columns
+
+### Step 7
+> To create a column 'Tags' by merging 5 columns, we preprocess and clean the data in those columns
+![Screenshot (2741)](https://github.com/user-attachments/assets/ed1d23dc-ad77-4fee-8c77-10c8d0aee30d)
+
+
+
 
 
 
