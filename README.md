@@ -37,6 +37,12 @@ Content Based Movie Recommender System
 > Perform vectorization by importing CountVectorizer library from sklearn class
 ![Screenshot (2743)](https://github.com/user-attachments/assets/aa920134-d60a-4609-bf3a-d90b33725696)
 
+### Step 9 
+> Import cosine_similarity function from sklearn library and find similarity among vectors
+![Screenshot (2744)](https://github.com/user-attachments/assets/f63a974d-2da0-49dc-8e3a-550211731ea1)
+
+
+
 
 
 
