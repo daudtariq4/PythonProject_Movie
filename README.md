@@ -41,6 +41,18 @@ Content Based Movie Recommender System
 > Import cosine_similarity function from sklearn library and find similarity among vectors
 ![Screenshot (2744)](https://github.com/user-attachments/assets/f63a974d-2da0-49dc-8e3a-550211731ea1)
 
+### Step 10
+> Sort movies on the basis of similarity, this will be used in main function
+  ```python
+sorted(list(enumerate(similarity[0])),reverse=True, key=lambda x:x[1])[1:6] 
+  ```
+### Step 11
+> Create main function, which will return 5 similar movies
+![Screenshot (2745)](https://github.com/user-attachments/assets/ece27ca5-1f28-425f-b5d8-abff8e448cd2)
+
+### Step 12
+
+
 
 
 
