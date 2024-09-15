@@ -51,6 +51,18 @@ sorted(list(enumerate(similarity[0])),reverse=True, key=lambda x:x[1])[1:6]
 ![Screenshot (2745)](https://github.com/user-attachments/assets/ece27ca5-1f28-425f-b5d8-abff8e448cd2)
 
 ### Step 12
+> Install streamlit library in pycharm to create website 
+![Screenshot (2746)](https://github.com/user-attachments/assets/c46b9c84-d4b9-45f7-82ac-93c3ce44bdbd)
+
+### Step 13
+> Import movies list in pycharm
+
+### Step 14
+> Create function which will recommend movies, import similarity file through pickle.dump
+
+### Step 15
+> Write a function which will fetch movie posters
+![Screenshot (2748)](https://github.com/user-attachments/assets/77bb9612-4792-4ddf-878f-f75533a1adb1)
 
 
 
